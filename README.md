@@ -45,10 +45,6 @@ Start the project:
 npm start
 ```
 
-## Contributing
-
-Fork the repo and create a pull request.
-
 ## License
 
 MIT License
