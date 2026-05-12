@@ -1,26 +1,22 @@
-# COMP229.2024.Backend
+# Midterm Backend API
 
 ## Project Overview
 
-This project includes examples for the COMP229 course on backend development.
+This repository contains a Node.js and Express backend API for managing car records with MongoDB.
 
-## Contents
+## Features
 
-- Week 1: Introduction
-- Week 2: Setup
-- Week 3: Databases
-- Week 4: RESTful APIs
-- Week 5: Auth
-- Week 6: Error Handling
-- Week 7: Deployment
+- REST endpoints for listing, creating, retrieving, updating, and deleting cars
+- MongoDB integration with Mongoose
+- JSON-based error responses for API consumers
 
 ## Getting Started
 
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/COMP229.2024.Backend.git
-cd COMP229.2024.Backend
+git clone https://github.com/Ricardo199/Midterm-Backend.git
+cd Midterm-Backend
 ```
 
 ## Prerequisites
@@ -48,4 +44,3 @@ npm start
 ## License
 
 MIT License
-
