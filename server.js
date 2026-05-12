@@ -6,7 +6,7 @@
 
 var db = require('./config/mongoose');
 var app = require('./config/express');
-var debug = require('debug')('comp229backend:server');
+var debug = require('debug')('midterm-backend:server');
 var http = require('http');
 
 /**
